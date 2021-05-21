@@ -28,7 +28,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 <br />
-## My Stats
+
+## 📈 My Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whoisaditya&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisaditya&layout=compact&theme=chartreuse-dark)
@@ -37,12 +38,11 @@
 
 ## ✉️ Find me on:
 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/aditya-mitra-a734a1194/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="mailto:mitraaditya1357@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin:4px">
-<a href="https://mitraaditya1357.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.instagram.com/haveyoumetaditya/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://twitter.com/Aditya07Mitra"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" color="white" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+ <p align="center">
+ <a href="https://github.com/whoisaditya" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/Aditya07Mitra" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/aditya-mitra-a734a1194/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/haveyoumetaditya/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9" /></a>
+<a href="https://mitraaditya1357.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%FF69B4.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" /></a>
+<a href="mailto:mitraaditya1357@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%FF69B4.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" /></a>
 
