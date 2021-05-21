@@ -2,8 +2,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=whoisaditya.whoisaditya) [![Github](https://img.shields.io/github/followers/whoisaditya?label=Follow&style=social)](https://github.com/whoisaditya)
 
-<p align="center">
- <img src="ian-dooley-DJ7bWa-Gwks-unsplash.jpg" width="1000px" />
+
 
 ## 🎓 I'm a first year BTech. Computer Science Student at VIT Vellore
 
@@ -13,10 +12,19 @@
 - 💬 Ask me about literally anything
 - ⚡ Fun fact: I listen to a lot of Arctic Monkeys.
 
-
+<p align="center">
+<img src="ian-dooley-DJ7bWa-Gwks-unsplash.jpg" width="1000px" />
 
 <br />
 
+
+## 📈 My Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whoisaditya&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisaditya&layout=compact&theme=great-gatsby)
+
+<br />
+ 
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -27,13 +35,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-<br />
-
-## 📈 My Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whoisaditya&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisaditya&layout=compact&theme=chartreuse-dark)
-
 <br />
 
 ## ✉️ Find me on:
