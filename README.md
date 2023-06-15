@@ -4,7 +4,7 @@
 
 
 
-## 🎓 I'm a 3rd year BTech. Computer Science Student at VIT Vellore
+## 🎓 I'm a 4th year BTech. Computer Science Student at VIT Vellore
 
 - 😄 Pronouns: He/Him
 - 🔭I'm currently working on [Links](https://github.com/CodeChefVIT/Links), [Org Monster Backend](https://github.com/whoisaditya/org-monster-backend)
