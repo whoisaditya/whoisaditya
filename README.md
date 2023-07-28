@@ -7,7 +7,7 @@
 ## 🎓 I'm a 4th year BTech. Computer Science Student at VIT Vellore
 
 - 😄 Pronouns: He/Him
-- 🔭I'm currently working on [Links](https://github.com/CodeChefVIT/Links), [Org Monster Backend](https://github.com/whoisaditya/org-monster-backend)
+- 🔭I'm currently working on [Links](https://github.com/whoisaditya/Links), [Nova Verba Backend](https://github.com/whoisaditya/nova-verba-backend) and [GoLang Task Management System](https://github.com/whoisaditya/golang-task-management-system)
 - 🌱I'm learning NodeJs
 - 💬 Ask me about literally anything
 - ⚡ Fun fact: I listen to a lot of Arctic Monkeys.
