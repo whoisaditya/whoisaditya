@@ -44,8 +44,9 @@
  <p align="center">
  <a href="https://github.com/whoisaditya" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/Aditya07Mitra" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/aditya-mitra-a734a1194/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/haveyoumetaditya/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9" /></a>
+<a href="[https://www.linkedin.com/in/aditya-mitra-a734a1194/](https://www.linkedin.com/in/mitra-aditya/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/mitraaditya1357/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fmitraaditya1357&logo=leetcode&logoColor=yellow" /></a>
+<a href="https://www.instagram.com/haveyoumetaditya/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9"/></a>
 <a href="https://mitraaditya1357.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%FF69B4.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" /></a>
 <a href="mailto:mitraaditya1357@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%FF69B4.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" /></a>
 
